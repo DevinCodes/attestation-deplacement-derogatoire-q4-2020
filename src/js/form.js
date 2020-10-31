@@ -51,6 +51,7 @@ const createFormGroup = ({
     placeholder,
     required: true,
     type,
+    value: localStorage.getItem(`val_${name}`),
   }
 
   const input = createElement('input', inputAttrs)

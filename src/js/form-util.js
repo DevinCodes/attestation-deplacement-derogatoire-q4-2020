@@ -143,6 +143,11 @@ export function prepareInputs (formInputs, reasonInputs, reasonFieldset, reasonA
       input.value = lsProfile[input.name]
     }
     const exempleElt = input.parentNode.parentNode.querySelector('.exemple')
+
+    input.addEventListener('input', (event) => {
+      localStorage.setItem(`val_${input.name}`, input.value)
+    })
+
     if (input.placeholder && exempleElt) {
       input.addEventListener('input', (event) => {
         if (input.value) {
