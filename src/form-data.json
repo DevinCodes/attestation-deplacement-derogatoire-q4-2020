@@ -103,39 +103,39 @@
       "items": [
         {
           "code": "travail",
-          "label": "Déplacements entre le domicile et le lieu d’exercice de l’activité professionnelle ou un établissement d’enseignement ou de formation, déplacements professionnels ne pouvant être différés <a class=\"footnote\" href=\"#footnote2\">[2]</a> , déplacements pour un concours ou un examen.<div class=\"anglais\">Travel between home and the place where the professional activity is carried out or to an educational or training establishment, professional travel that cannot be postponed <a class=\"footnote\" href=\"#footnote2\">[2]</a> , travel for a competition or examination.</div>"
+          "label": "Déplacements entre le domicile et le lieu d’exercice de l’activité professionnelle ou un établissement d’enseignement ou de formation, déplacements professionnels ne pouvant être différés <a class=\"footnote\" href=\"#footnote2\">[2]</a> , déplacements pour un concours ou un examen."
         },
         {
           "code": "achats",
-          "label": "Déplacements pour effectuer des achats de fournitures nécessaires à l'activité professionnelle, des achats de première nécessité <a class=\"footnote\" href=\"#footnote3\">[3]</a> dans des établissements dont les activités demeurent autorisées, le retrait de commande et les livraisons à domicile ;<div class=\"anglais\">Travel for the purchase of supplies necessary for the professional activity, purchases of basic necessities <a class=\"footnote\" href=\"#footnote3\">[3]</a> in establishments whose activities remain authorized, the withdrawal of orders and home deliveries;</div>"
+          "label": "Déplacements pour effectuer des achats de fournitures nécessaires à l'activité professionnelle, des achats de première nécessité <a class=\"footnote\" href=\"#footnote3\">[3]</a> dans des établissements dont les activités demeurent autorisées, le retrait de commande et les livraisons à domicile ;"
         },
         {
           "code": "sante",
-          "label": "Consultations, examens et soins ne pouvant être assurés à distance et l’achat de médicaments ;<div class=\"anglais\">Consultations, examinations and care that cannot be provided remotely and the purchase of medication ;</div>"
+          "label": "Consultations, examens et soins ne pouvant être assurés à distance et l’achat de médicaments ;"
         },
         {
           "code": "famille",
-          "label": " Déplacements pour motif familial impérieux, pour l'assistance aux personnes vulnérables et précaires ou la garde d'enfants ;<div class=\"anglais\">Displacements for compelling family reasons, for assistance to vulnerable and precarious persons or for child care ;</div>"
+          "label": " Déplacements pour motif familial impérieux, pour l'assistance aux personnes vulnérables et précaires ou la garde d'enfants ;"
         },
         {
           "code": "handicap",
-          "label": "Déplacement des personnes en situation de handicap et leur accompagnant ;<div class=\"anglais\">Movement of disabled persons and their companions;</div>"
+          "label": "Déplacement des personnes en situation de handicap et leur accompagnant ;"
         },
         {
           "code": "sport_animaux",
-          "label": "Déplacements brefs, dans la limite d'une heure quotidienne et dans un rayon maximal d'un kilomètre autour du domicile, liés soit à l'activité physique individuelle des personnes, à l'exclusion de toute pratique sportive collective et de toute proximité avec d'autres personnes, soit à la promenade avec les seules personnes regroupées dans un même domicile, soit aux besoins des animaux de compagnie ;<div class=\"anglais\">Short journeys, within the limit of one hour daily and within a maximum radius of one kilometer around the home, related either to the individual physical activity of the persons, to the exclusion of any collective sporting practice and any proximity with other persons, or to the walk with the only persons grouped together in the same home, or to the needs of the pets;</div>"
+          "label": "Déplacements brefs, dans la limite d'une heure quotidienne et dans un rayon maximal d'un kilomètre autour du domicile, liés soit à l'activité physique individuelle des personnes, à l'exclusion de toute pratique sportive collective et de toute proximité avec d'autres personnes, soit à la promenade avec les seules personnes regroupées dans un même domicile, soit aux besoins des animaux de compagnie ;"
         },
         {
           "code": "convocation",
-          "label": " Convocation judiciaire ou administrative et pour se rendre dans un service public ;<div class=\"anglais\">Judicial or administrative summons and to go to a public service ;</div>"
+          "label": " Convocation judiciaire ou administrative et pour se rendre dans un service public ;"
         },
         {
           "code": "missions",
-          "label": " Participation à des missions d'intérêt général sur demande de l'autorité administrative ;<div class=\"anglais\">Participation in missions of general interest at the request of the administrative authority ;</div>"
+          "label": " Participation à des missions d'intérêt général sur demande de l'autorité administrative ;"
         },
         {
           "code": "enfants",
-          "label": "Déplacement pour chercher les enfants à l’école et à l’occasion de leurs activités périscolaires ;<div class=\"anglais\">Travel to pick up the children at school and during their extracurricular activities;</div>"
+          "label": "Déplacement pour chercher les enfants à l’école et à l’occasion de leurs activités périscolaires."
         }
       ]
     }

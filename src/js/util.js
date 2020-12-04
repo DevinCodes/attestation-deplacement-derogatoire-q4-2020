@@ -33,10 +33,3 @@ export function addVersion (version) {
     'version',
   ).innerHTML = `${new Date().getFullYear()} - ${version}`
 }
-
-export function addLangClassName() {
-  const lang = new URLSearchParams(window.location.search).get('lang')
-  if (lang === 'en') {
-    document.body.classList.add('anglais')
-  }
-}

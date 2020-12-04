@@ -673,17 +673,3 @@ input[type=number] {
 .fieldset-error {
   border: 3px solid red;
 }
-
-.form-checkbox-label.anglais {
-  display: none;
-}
-
-body.anglais .form-checkbox-label {
-  color: #666;
-}
-
-body.anglais .form-checkbox-label .anglais {
-  display: block;
-  margin: 0.5rem 0 1rem 0;
-  color: #000;
-}

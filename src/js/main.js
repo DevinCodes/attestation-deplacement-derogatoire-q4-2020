@@ -6,10 +6,9 @@ import './icons'
 import './check-updates'
 import { prepareForm } from './form-util'
 import { warnFacebookBrowserUserIfNecessary } from './facebook-util'
-import { addVersion, addLangClassName } from './util'
+import { addVersion } from './util'
 import { createForm } from './form'
 
-addLangClassName()
 warnFacebookBrowserUserIfNecessary()
 createForm()
 prepareForm()
